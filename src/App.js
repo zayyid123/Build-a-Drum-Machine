@@ -91,8 +91,8 @@ function sliderCallback(data){
 }
 
   return (
-    <div className="App">
-      <div  id="drum-machine" style={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap:'wrap', backgroundColor:'#161B22', width: 450,marginTop: 50,borderRadius: 10, margin:'auto'}}>
+    <div className="App" style={{marginTop: 60}}>
+      <div  id="drum-machine" style={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap:'wrap', backgroundColor:'#161B22', width: 450,borderRadius: 10, margin:'auto'}}>
         <div style={{padding: 10, display: 'flex', flexWrap:'wrap', width: 170}}>
           {
             dataBtn.map((item, index) => 
