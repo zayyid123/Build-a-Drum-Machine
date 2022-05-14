@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Build-a-Drum-Machine/static/css/main.4d6ecfd7.css",
-    "main.js": "/Build-a-Drum-Machine/static/js/main.7643dcce.js",
+    "main.js": "/Build-a-Drum-Machine/static/js/main.0b6cfb75.js",
     "static/js/787.c419f7a1.chunk.js": "/Build-a-Drum-Machine/static/js/787.c419f7a1.chunk.js",
     "static/media/RP4_KICK_1.mp3": "/Build-a-Drum-Machine/static/media/RP4_KICK_1.72881f4bf80d341da208.mp3",
     "static/media/Heater-1.mp3": "/Build-a-Drum-Machine/static/media/Heater-1.cb8d95b6caf027812d3b.mp3",
@@ -14,11 +14,11 @@
     "static/media/Cev_H2.mp3": "/Build-a-Drum-Machine/static/media/Cev_H2.0b159bd307a31937b138.mp3",
     "index.html": "/Build-a-Drum-Machine/index.html",
     "main.4d6ecfd7.css.map": "/Build-a-Drum-Machine/static/css/main.4d6ecfd7.css.map",
-    "main.7643dcce.js.map": "/Build-a-Drum-Machine/static/js/main.7643dcce.js.map",
+    "main.0b6cfb75.js.map": "/Build-a-Drum-Machine/static/js/main.0b6cfb75.js.map",
     "787.c419f7a1.chunk.js.map": "/Build-a-Drum-Machine/static/js/787.c419f7a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d6ecfd7.css",
-    "static/js/main.7643dcce.js"
+    "static/js/main.0b6cfb75.js"
   ]
 }
